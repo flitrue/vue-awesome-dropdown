@@ -20,7 +20,11 @@ new Vue({
     data: function () {
         return {
             name: "",
-            list: [北京, 上海, 深圳]
+            list: [
+                { name: "北京" },
+                { name: "上海" },
+                { name: "深圳" },
+            ]
         };
     },
     template: '<drop-down v-model="name" :list="list" :></drop-down>'
@@ -36,7 +40,11 @@ new Vue({
     data: function () {
         return {
             name: "",
-            list: [北京, 上海, 深圳]
+            list: [
+                { name: "北京" },
+                { name: "上海" },
+                { name: "深圳" },
+            ]
         };
     },
     template: '<drop-down v-model="name" :list="list" :></drop-down>'
