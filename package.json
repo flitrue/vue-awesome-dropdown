@@ -1,0 +1,19 @@
+{
+  "name": "vue-awesome-dropdown",
+  "version": "1.0.0",
+  "description": "A drop down component implements by vuejs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "vue-component",
+    "dropdown"
+  ],
+  "author": "flitrue",
+  "license": "MIT",
+  "devDependencies": {
+    "less": "^3.9.0"
+  }
+}
