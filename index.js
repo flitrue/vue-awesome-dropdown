@@ -1,3 +1,3 @@
-import DropDown from "src/DropDown.vue";
+import DropDown from "./src/DropDown.vue";
 
 export default DropDown;

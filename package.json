@@ -1,6 +1,6 @@
 {
   "name": "vue-awesome-dropdown",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A drop down component implements by vuejs.",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,8 @@
   ],
   "author": "flitrue",
   "license": "MIT",
-  "devDependencies": {
-    "less": "^3.9.0"
+  "dependencies": {
+    "less": "^3.9.0",
+    "less-loader": "^4.1.0"
   }
 }

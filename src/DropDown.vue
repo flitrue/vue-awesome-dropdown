@@ -15,7 +15,7 @@
 </template>
 
 <script>
-import { directive as clickOutside } from "@/libs/v-click-outside-x.js";
+import { directive as clickOutside } from "./libs/v-click-outside-x.js";
 export default {
   name: "DropDown",
   props: {
