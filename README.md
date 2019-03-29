@@ -1,7 +1,7 @@
 # vue-awesome-dropdown
 
-[![npm version](https://badge.fury.io/js/vue-awesome-dropdown.svg)](https://badge.fury.io/js/vue-awesome-dropdown)
 [![Build Status](https://travis-ci.org/flitrue/vue-awesome-dropdown.svg?branch=master)](https://travis-ci.org/flitrue/vue-awesome-dropdown)
+[![npm version](https://badge.fury.io/js/vue-awesome-dropdown.svg)](https://badge.fury.io/js/vue-awesome-dropdown)
 
 > A dropdown refresh component implements by vuejs 2.0 for mobile.
 
