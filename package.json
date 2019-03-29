@@ -3,9 +3,6 @@
   "version": "1.0.2",
   "description": "A drop down component implements by vuejs.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "vue",
     "vue-component",
